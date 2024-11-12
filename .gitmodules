@@ -1,21 +1,28 @@
 [submodule "idatg1002.beeonbudget"]
 	path = idatg1002.beeonbudget
 	url = https://github.com/erikbjo/beeonbudget
+	branch = main
 [submodule "idatg2204.electromart"]
 	path = idatg2204.electromart
 	url = https://github.com/erikbjo/electromart
+	branch = main
 [submodule "idatg1003.tds"]
 	path = idatg1003.tds
 	url = https://github.com/erikbjo/tds
+	branch = main
 [submodule "idatg2001.paths"]
 	path = idatg2001.paths
 	url = https://github.com/erikbjo/paths
+	branch = main
 [submodule "prog2005.assignment1"]
 	path = prog2005.assignment1
 	url = https://github.com/erikbjo/prog2005assignment1
+	branch = main
 [submodule "prog2005.assignment2"]
 	path = prog2005.assignment2
 	url = https://github.com/erikbjo/prog2005assignment2
+	branch = main
 [submodule "iikg3005.erbj-oppg2"]
 	path = iikg3005.erbj-oppg2
 	url = https://github.com/erikbjo/erbj-oppg2
+	branch = main
