@@ -26,3 +26,7 @@
 	path = iikg3005.erbj-oppg2
 	url = https://github.com/erikbjo/erbj-oppg2
 	branch = main
+[submodule "iikg3005.driftdetection"]
+	path = iikg3005.driftdetection
+	url = https://github.com/erikbjo/driftdetection
+	branch = main
