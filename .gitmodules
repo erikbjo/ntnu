@@ -30,3 +30,7 @@
 	path = iikg3005.driftdetection
 	url = https://github.com/erikbjo/driftdetection
 	branch = main
+[submodule "idatg2206.fishdetection"]
+	path = idatg2206.fishdetection
+	url = https://github.com/erikbjo/fishdetection
+	branch = main
